@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Road Rage', cursive;
+  background-color: #e8f6f3;
+}
+.top-container{
+  background-color:  #eafaf1;
+  height: 350px;
+  padding-top: 100px;
+}
+h1{
+  margin-top: 0px;
+  padding-top: 50px;
+  font-size: 70px;
+  color: #00CED1;
+  font-family: 'Praise', cursive;
+}
+.kwapa{
+  padding-top: 20px;
+  font-size: 50px;
+  color: #00CED1;
+  font-family: 'Praise', cursive;
+}
+.zara{
+  width: 20%;
+  border-radius: 100%;
+}
+hr{
+  color: white;
+  border-style: none;
+}
+.heart1{
+  width: 10%;
+  position: absolute;
+  left: 300px;
+  top: 70px;
+}
+.heart2{
+  width: 10%;
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+h3{
+ color:  #117864;
+ font-family: 'Caveat', cursive;
+ font-size: 200%;
+}
+.row1{
+  position: relative;
+  right: 500px;
+}
+.row2{
+  position: relative;
+  left: 400px;
+}
+li{
+  font-size: 200%;
+}
+.botona{
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  font-size: 30px;
+  background-color: #73c6b6;
+  font-family: 'Caveat', cursive;
+
+}
+.bottom-container{
+  background-color:  #eafaf1;
+  height: 100px;
+  padding-top: 40px;
+}
+a{
+  font-size: 200%;
+}
+.devil{
+  width: 10%;
+  position:relative;
+  left: 500px;
+  bottom: 700px;
+}
+.devil2{
+  width: 10%;
+  position: relative;
+  right: 650px;
+  bottom: 300px;
+}
